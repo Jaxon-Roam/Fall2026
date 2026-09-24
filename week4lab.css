@@ -1,0 +1,23 @@
+.border{
+   border: 6px solid black !important;
+}
+
+.weight{
+    font-weight: 500;
+}
+
+.green{
+    color: darkgreen;
+}
+
+.orange{
+    color: orangered;
+}
+
+.yellow{
+    color: goldenrod;
+}
+
+.fontsize{
+    font-size: large;
+}
